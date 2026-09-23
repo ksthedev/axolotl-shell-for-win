@@ -1,0 +1,8 @@
+{
+  "prompt": "AXSH@WIN > ",
+  "shell": "cmd",
+  "axsh": {
+    "this": "AXSH@WIN v.0.1.0b",
+    "thislv": "AXSH@WIN"
+  }
+}
